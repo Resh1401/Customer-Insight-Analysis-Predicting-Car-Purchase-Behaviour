@@ -1,5 +1,7 @@
 # Customer-Insight-Analysis-Predicting-Car-Purchase-Behaviour
 
+![image](https://github.com/user-attachments/assets/8599a63b-87d3-4f09-baae-a5a1dac37c7e)
+
 1.	Project Background
 
 Auto Motor Company is a leading car manufacturer specializing in SUV, Sedan and Hatchback models. In its recent board meeting, concerns were raised by the members on the efficiency of the marketing campaign currently being used. 
