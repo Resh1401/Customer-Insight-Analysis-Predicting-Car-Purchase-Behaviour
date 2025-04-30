@@ -1,4 +1,4 @@
-# Customer-Insight-Analysis-Predicting-Car-Purchase-Behaviour
+# Customer Insight Analysis-Predicting Car Purchase-Behaviour
 
 ![image](https://github.com/user-attachments/assets/8599a63b-87d3-4f09-baae-a5a1dac37c7e)
 
